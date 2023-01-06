@@ -25,5 +25,5 @@ def largest_prime_factor(n):
 # test
 print("pass") if largest_prime_factor(13195) == 29 else print("fail")
 
-#solution
+# solution
 largest_prime_factor(600851475143)
