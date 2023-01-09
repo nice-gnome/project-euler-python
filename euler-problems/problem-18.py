@@ -49,6 +49,11 @@ test_tri=[
   [2, 4, 6],
 [8, 5, 9, 3]]
 
+# start at second to last row
+# replace with choices from last row
+# remove last row
+# repeat until only one number remains
+
 def max_total(t):
     for i in range(len(t)-1, -1, -1):
         for j in range(0, i):
