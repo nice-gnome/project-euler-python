@@ -13,13 +13,12 @@ def is_prime(n):
     return True
 
 def divisors(n):
-    divisors = []
+    divisors = set()
     for i in range(1,int(n**0.5)+1):
         if n % i == 0:
-            divisors.append(i)
-            divisors.append(n//i)
-    divisors.sort()
-    return divisors
+            divisors.add(i)
+            divisors.add(n//i)
+    return sorted(divisors)
 
 def sum_digits(n):
     return sum([int(d) for d in str(n)])
