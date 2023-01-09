@@ -19,3 +19,6 @@ def divisors(n):
             divisors.append(i)
             divisors.append(n//i)
     return divisors
+
+def sum_digits(n):
+    return sum([int(d) for d in str(n)])
