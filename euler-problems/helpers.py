@@ -18,6 +18,7 @@ def divisors(n):
         if n % i == 0:
             divisors.append(i)
             divisors.append(n//i)
+    divisors.sort()
     return divisors
 
 def sum_digits(n):
