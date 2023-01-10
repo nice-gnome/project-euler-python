@@ -29,3 +29,6 @@ def divisors(n):
 
 def sum_digits(n):
     return sum([int(d) for d in str(n)])
+
+def get_digits(n):
+    return [int(d) for d in str(n)]
