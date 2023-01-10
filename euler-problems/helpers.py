@@ -12,6 +12,13 @@ def is_prime(n):
         i = i + 6
     return True
 
+def get_primes(limit):  # returns list of primes <= n
+    primes = []
+    for n in range(1, limit+1):
+        if is_prime(n):
+            primes.append(n)
+    return primes
+
 def divisors(n):
     divisors = set()
     for i in range(1,int(n**0.5)+1):

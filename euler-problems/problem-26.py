@@ -28,6 +28,5 @@ def max_rep(limit):
             solution = n
     return solution
 
-
 # solution
 print(max_rep(1000))
