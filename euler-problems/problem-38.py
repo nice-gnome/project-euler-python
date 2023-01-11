@@ -12,7 +12,7 @@ What is the largest 1 to 9 pandigital 9-digit number that can be formed as the c
 """
 # largest pandigital number is 987654321
 # multiplier x must be <= 4 digits long because n must be at least 2
-#   (x can't be 5 digits because that would result in more than 9 concantenated)
+#   (x can't be 5 digits because that would result in more than 9 concatenated)
 #
 # check all multiplier possibilities 2 to 9999
 
