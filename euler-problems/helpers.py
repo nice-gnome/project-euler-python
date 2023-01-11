@@ -32,3 +32,6 @@ def sum_digits(n):
 
 def get_digits(n):
     return [int(d) for d in str(n)]
+
+def list_to_int(t): # takes list or tuple
+    return int(''.join(map(str, t)))
