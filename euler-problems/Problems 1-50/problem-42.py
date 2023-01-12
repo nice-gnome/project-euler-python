@@ -15,7 +15,7 @@ import string
 
 def num_triangle_words():
     letters = [*string.ascii_uppercase]
-    f = open("resources/p042_words.txt", "r")
+    f = open("../resources/p042_words.txt", "r")
     all_words = f.read()
     f.close()
     raw_words = all_words.split(",")

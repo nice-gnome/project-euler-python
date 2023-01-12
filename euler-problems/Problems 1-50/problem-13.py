@@ -3,7 +3,7 @@ Work out the first ten digits of the sum of the following one-hundred 50-digit n
 (Numbers in resources)
 """
 def first_ten():
-    numbers = open("resources/problem-13-numbers.txt","r")
+    numbers = open("../resources/problem-13-numbers.txt", "r")
     sum = 0
     for line in numbers:
         sum += int(line)

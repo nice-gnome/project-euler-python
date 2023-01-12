@@ -14,7 +14,7 @@ What is the total of all the name scores in the file?
 """
 import string
 letters = [*string.ascii_uppercase]
-names = open("resources/p022_names.txt").readlines()[0].split(",")
+names = open("../resources/p022_names.txt").readlines()[0].split(",")
 names.sort()
 
 def alpha_score(name):
