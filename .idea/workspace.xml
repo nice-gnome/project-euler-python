@@ -6,51 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="973e40aa-fbb8-45bc-8827-1d4dfbc79206" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-12.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-13.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-14.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-15.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-16.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-17.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-17.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-18.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-19.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-20.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-20.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-21.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-21.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-22.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-22.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-23.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-23.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-24.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-24.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-25.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-25.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-26.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-27.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-27.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-28.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-28.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-29.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-29.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-30.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-30.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-31.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-31.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-32.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-32.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-33.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-33.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-34.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-34.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-35.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-35.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-36.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-36.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-37.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-37.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-38.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-38.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-39.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-39.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-40.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-40.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-41.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-41.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-42.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-42.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-43.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-43.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-44.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-44.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-45.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-45.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/euler-problems/problem-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/euler-problems/Problems 1-50/problem-9.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
