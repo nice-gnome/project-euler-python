@@ -103,7 +103,7 @@ def sum_cyclic():
     }
     perms = perm(list(polys.keys()))
     for p in perms:
-        #('oct', 'hept', 'hex', 'pent', 'sqr', 'tri')
+        # Ex: ('oct', 'hept', 'hex', 'pent', 'sqr', 'tri')
         for c in polys[p[0]]:
             c1s = next_possible(c, polys[p[1]])
             if len(c1s) == 0:
